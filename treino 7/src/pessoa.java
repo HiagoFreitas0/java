@@ -17,5 +17,4 @@ public abstract class pessoa {
 	
 	public abstract void exibirDados();
 	
-	
 }

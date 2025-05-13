@@ -14,7 +14,4 @@ public class veiculo {
 	    System.out.println("Veículo ligado.");
 	}
 
-	
-	
-
 }
